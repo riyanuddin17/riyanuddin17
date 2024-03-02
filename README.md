@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Cloud and DevOps**
 
-- 🌱 I’m currently learning **DevSecOps**
+- 🌱 I’m currently learning **DevSecOps,GenerativeAI**
 
 - 💬 Ask me about **Fullstack Development, Selenium Testing, Cloud/DevSecOps**
 
