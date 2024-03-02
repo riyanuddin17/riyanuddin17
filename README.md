@@ -23,7 +23,7 @@
 
 <a href="https://www.linkedin.com/in/riyan-uddin-9a660a20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/riyan.uddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://riyanuddin17.github.io/Portfolio/" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-vector%2F20190330%2Fourmid%2Fpngtree-vector-portfolio-icon-png-image_894644.jpg&tbnid=g9LaKJG1Xi6XYM&vet=12ahUKEwjricD0mtWEAxUxfWwGHRUDAp8QMyg6egUIARDVAQ..i&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffree-png-vectors%2Fportfolio-icon&docid=n9_A_Otwd3_CLM&w=360&h=360&q=portfolio%20icon%20remove%20background&ved=2ahUKEwjricD0mtWEAxUxfWwGHRUDAp8QMyg6egUIARDVAQ" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://riyanuddin17.github.io/Portfolio/" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20190330/ourmid/pngtree-vector-portfolio-icon-png-image_894644.jpg" alt="rishav_chanda" height="30" width="40" /></a>
 
 </p>
 
