@@ -41,4 +41,4 @@
 
 <br clear="both">
 
-<img src="https://github.com/riyanuddin17/riyanuddin17/tree/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/riyanuddin17/riyanuddin17/blob/output/snake.svg" alt="Snake animation" />
