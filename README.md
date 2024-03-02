@@ -23,7 +23,7 @@
 
 <a href="https://www.linkedin.com/in/riyan-uddin-9a660a20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/riyan.uddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://riyanuddin17.github.io/Portfolio/" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20190330/ourmid/pngtree-vector-portfolio-icon-png-image_894644.jpg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://riyanuddin17.github.io/Portfolio/" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/portfolio-minimal-vector-line-icon-3d-button-isolated-black-background-premium-vector_570929-459.jpg" alt="rishav_chanda" height="30" width="40" /></a>
 
 </p>
 
