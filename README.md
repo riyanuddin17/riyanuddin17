@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Vexa Web App**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevSecOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Fullstack Development, Selenium Testing, Cloud/DevSecOps**
 
 - 📫 How to reach me **er.riyanuddin@gmail.com**
 
