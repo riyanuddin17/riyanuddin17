@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5612AQEFMl9GtNv4yw/article-cover_image-shrink_720_1280/0/1688450327740?e=2147483647&v=beta&t=6cbqBVr6Pzuf4y2OxbKTpfrrhO7halSzmy8N1CED_jE)](https://riyanuddin17.github.io/Portfolio/)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQEdj9nql2XgJA/profile-displaybackgroundimage-shrink_350_1400/0/1701257165113?e=1714608000&v=beta&t=BjB02yL5wW0LfMR83Ql3Mx9Bsn6GqgpzQ_QisdGLwRQ)](https://riyanuddin17.github.io/Portfolio/)
 <h1 align="center">Hi 👋, I'm Riyan Uddin</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV4eXdncDVjZmEzMHBha2M2cWtubXpzemdjZndiamNnaGFzaXFvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
