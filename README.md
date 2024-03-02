@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV4eXdncDVjZmEzMHBha2M2cWtubXpzemdjZndiamNnaGFzaXFvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-<p align="left"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV4eXdncDVjZmEzMHBha2M2cWtubXpzemdjZndiamNnaGFzaXFvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="rishavchanda" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
